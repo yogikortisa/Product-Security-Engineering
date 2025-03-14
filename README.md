@@ -1,8 +1,7 @@
 # Product-Security-Engineering
-Curated resources from guidelines, templates, practical steps, etc to build your first product security (ProdSec) program from scratch!
-Resources pilihan untuk panduan praktikal menerapkan program keamanan produk, utamanya aplikasi dalam siklus pengembangan product dari awal.
-Teridir dari public resources dan "custom" resources.
+Curated resources including guidelines, templates, and practical steps to build your first product security (ProdSec) program from scratch! Whether it's securing the SDLC that embeds security practices into every phase of your SDLC, or integrating DevSecOps security pipelines into your DevOps environment, this collection provides practical guidance for implementing product security programs, especially in application development throughout the product lifecycle. It includes both public resources and custom resources.
 
 # Custom
+
 
 # Public
