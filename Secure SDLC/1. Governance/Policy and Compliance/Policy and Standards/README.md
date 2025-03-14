@@ -1,0 +1,2 @@
+[ - ] PEDOMAN TATA KELOLA KEAMANAN APLIKASI
+BERBASIS WEB (https://cloud.bssn.go.id/s/QJsdjKiKjpYmXLj)
