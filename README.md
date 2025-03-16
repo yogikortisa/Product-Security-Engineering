@@ -1,7 +1,6 @@
 # Product-Security-Engineering
-Curated resources including guidelines, templates, and practical steps to build your first product security (ProdSec) program from scratch! Whether it's securing the SDLC that embeds security practices into every phase of your SDLC, or integrating DevSecOps security pipelines into your DevOps environment, this collection provides practical guidance for implementing product security programs, especially in application development throughout the product lifecycle. It includes both public resources and custom resources.
+Curated resources and open-source templates to help you bootstrap your Product/Application Security Program. This collection includes guidelines, templates, and practical steps for building your first product security (ProdSec) program from scratch!
 
-# Custom
+Whether it's securing the Software Development Life Cycle (SDLC) by embedding security practices into every phase or integrating DevSecOps security pipelines into your DevOps environment, this resource provides practical guidance for implementing product security programs, particularly in application development throughout the product lifecycle. It encompasses both public resources and my internal "customized" resources.
 
-
-# Public
+It's something similar to https://github.com/securitytemplates/sectemplates, but it specifically focuses on product security programs, offering various practical resources that can be directly utilized.

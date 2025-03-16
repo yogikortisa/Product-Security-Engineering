@@ -5,4 +5,11 @@ Panduan Komprehensif Threat Modeling dari awal hingga akhir: https://medium.com/
 Notion Threat Model Template tinggal pakai: https://www.notion.so/templates/threat-model
 
 # Threat Modeling Tools
+
 https://owasp.org/www-project-threat-dragon/
+
+https://github.com/michenriksen/drawio-threatmodeling
+
+https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html
+
+https://github.com/OWASP/threat-modeling-playbook

@@ -93,13 +93,16 @@ Operate/Monitor Phase
 
 ### Whitespots Security Pipelines
 https://gitlab.com/whitespots-public/pipelines
+
 End-to-end gitlab-ci security template siap pakai, integrasi dengan DefectDojo vulnerability management tool.
 
 ### AppSecEngineer DevSecOps Gitlab-CI
+
 https://github.com/appsecengineer/devsecops-gitlab-ci
 
 ## Github
 
 ### AppSecEngineer Repositories
 https://github.com/orgs/appsecengineer/repositories?q=gh-actions
+
 Various gh-actions-* template for using as github action security pipelines.
