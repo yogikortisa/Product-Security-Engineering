@@ -15,3 +15,6 @@ Can be used for security testing tool benchmarking, pentesting practices, and le
 # Panduan dan Checklist Secure SDLC dalam Bahasa Indonesia
 
 https://s.id/panduanssdlc
+
+# PHP Secure Code 101
+https://research.seclab.id/researches/php-secure-code-101/
