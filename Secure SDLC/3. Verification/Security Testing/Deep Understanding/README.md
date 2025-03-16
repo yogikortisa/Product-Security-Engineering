@@ -2,6 +2,10 @@
 
 https://docs.google.com/document/d/17lS7erkSL8cJ8SzaEeK4zVTptMawkITX8tS9FfFuaxI
 
+# Practical Pentest Course in Bahasa Indonesia by y3dips
+
+https://github.com/y3dips/mycoursematz/tree/main/penetration_testing
+
 # Checklists / Test Cases
 
 ## Practical Web Application Penetration Testing
