@@ -87,9 +87,9 @@ Operate/Monitor Phase
 🚧 OPR-007 Attack Surface Management
 
 
-# Practical CI/CD Security Pipeline Template:
+# Practical CI/CD Security Pipeline Template & Reference
 
-## Gitlab
+## Gitlab-CI
 
 ### Whitespots Security Pipelines
 https://gitlab.com/whitespots-public/pipelines
@@ -100,9 +100,18 @@ End-to-end gitlab-ci security template siap pakai, integrasi dengan DefectDojo v
 
 https://github.com/appsecengineer/devsecops-gitlab-ci
 
-## Github
+## Github Action
 
 ### AppSecEngineer Repositories
 https://github.com/orgs/appsecengineer/repositories?q=gh-actions
 
 Various gh-actions-* template for using as github action security pipelines.
+
+## Jenkins
+
+https://medium.com/cloud-native-daily/walk-into-devsecops-2da7ead540d2
+
+## DevSecOps Guides
+Comprehensive resource for integrating security into the software development lifecycle.
+
+https://wiki.devsecopsguides.com/
