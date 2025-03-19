@@ -1,6 +1,18 @@
 # Building a Product Security program from scratch
 https://www.anshumanbhartiya.com/posts/building-product-security-program
 
+# Minimum Viable Secure Product (MVSP)
+
+https://mvsp.dev/
+
+A minimum security baseline for enterprise-ready products and services
+
+    Minimal. Baseline criteria for secure products.
+    Practical. Easy to understand application security focused controls.
+    Modern. Updated annually.
+
+Minimum Viable Secure Product (MVSP) is a list of essential application security controls that should be implemented in enterprise-ready products and services. The controls are designed to be simple to implement and provide a good foundation for building secure and resilient systems and services. MVSP is based on the experience of contributors in enterprise application security and has been built with contributions from a range of companies.
+
 # OWASP Top 10 Proactive Controls
 https://top10proactive.owasp.org/
 
