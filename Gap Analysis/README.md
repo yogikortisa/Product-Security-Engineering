@@ -3,6 +3,12 @@ https://owaspsamm.org/
 
 Software Assurance Maturity Model (SAMM) that provides an effective and measurable way for all types of organizations to analyse and improve their software security posture.
 
+## SAMM Assessment
+
+https://owaspsamm.org/assessment/
+
+https://sammy.codific.com/
+
 # OWASP DevSecOps Verification Standard (DSOVS)
 https://github.com/OWASP/www-project-devsecops-verification-standard
 

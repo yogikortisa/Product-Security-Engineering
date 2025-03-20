@@ -18,3 +18,11 @@ https://s.id/panduanssdlc
 
 # PHP Secure Code 101
 https://research.seclab.id/researches/php-secure-code-101/
+
+# Training / Course
+
+https://www.securityknowledgeframework.org/
+
+https://owaspsamm.thinkific.com/courses/samm
+
+https://training.linuxfoundation.org/training/developing-secure-software-lfd121/
