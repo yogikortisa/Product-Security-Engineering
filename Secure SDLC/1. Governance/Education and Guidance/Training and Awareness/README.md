@@ -12,6 +12,12 @@ Can be used for security testing tool benchmarking, pentesting practices, secure
 ## Not Include Mitigation/Fix
 Can be used for security testing tool benchmarking, pentesting practices, and learning bad coding practices.
 
+# Konsep Software Security dan Secure SDLC dalam Bahasa Indonesia
+
+http://web.archive.org/web/20190711024004/https://budi.rahardjo.id/files/software-security.pdf
+
+https://www.youtube.com/@rahard/search?query=secure%20sdlc
+
 # Panduan dan Checklist Secure SDLC dalam Bahasa Indonesia
 
 https://s.id/panduanssdlc
