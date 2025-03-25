@@ -1,0 +1,27 @@
+Standard Recommendation - Secure by Default Infrastructure Security Hardening.
+
+Platform: AWS
+OS: GNU/Linux Ubuntu Server (latest)
+
+SOP:
+1. Automate setup freshly clean ubuntu server installation on all servers with Terraform and Ansible (Infra As A Code)
+2. Setup Automation Server Hardening:
+- Run this Base Secure script on all servers with ansible:
+	git clone https://github.com/philcryer/base-secure.git
+	cd base-secure
+	./base-secure
+	(Cleaning up all the artefacts:)
+	./base-secure clean
+- More additional security hardening script consideration: dev-sec.io/baselines
+3. Setup Continous Development & Deployment (CD/CD & DevSecOps tools) environtments dgn Docker Container, Github Action/Gitlab-CI/Jenkins
+4. Setup kubernetes di AWS EKS untuk autoscaling. Deploy aplikasi di kubernetes cluster. Horizontal pod autoscaling.
+5. Setup centralized log management & monitoring: Log Management with ELK stacks
+6. Setup centralized performance monitoring: Application Performance Management (APM) with Prometheus Grafana untuk Monitoring
+
+#References
+Hardening Script & Tutorial: https://fak3r.com/2021/06/18/secure-linux-servers-by-default/
+https://github.com/philcryer/base-secure
+https://dev-sec.io/baselines/
+https://github.com/dev-sec
+https://bitvijays.github.io/LFF-ESS-P0A-CyberSecurityEnterprise.html
+https://bitvijays.github.io/LFF-IPS-P6-ConfigurationReview.html
