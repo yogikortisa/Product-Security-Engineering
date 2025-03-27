@@ -24,6 +24,10 @@ https://github.com/six2dez/reconftw
 
 reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 
+https://sudosuraj.github.io/nuclei-ai-prompts/
+
+Nuclei AI Prompts: Collection of AI-powered recon commands.
+
 # HOT & New
 
 ## Mantis
