@@ -4,6 +4,10 @@ Panduan Komprehensif Practical Threat Modeling dari awal hingga akhir: https://m
 # Threat Model Template
 Notion Threat Model Template tinggal pakai: https://www.notion.so/templates/threat-model
 
+# Workshop: System and Agile Threat Modeling
+
+https://www.youtube.com/watch?v=Ond_DIGXyoI
+
 # Threat Modeling Tools
 
 https://owasp.org/www-project-threat-dragon/

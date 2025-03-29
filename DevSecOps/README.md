@@ -100,6 +100,10 @@ https://github.com/OWASP/DevSecOpsGuideline/tree/master/current-version
 
 The 'How' of Practical DevSecOps Tools Implementation
 
+# How Companies Ship Code
+
+https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7311416891229519874-txoJ/
+
 # Practical CI/CD Security Pipeline Template & Reference
 
 ## Gitlab-CI
