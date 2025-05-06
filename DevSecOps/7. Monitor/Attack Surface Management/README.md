@@ -40,9 +40,12 @@ https://github.com/iamthefrogy/frogy2.0
 
 Frogy 2.0 is an automated external reconnaissance and Attack Surface Management (ASM) toolkit
 
-## Orbit
-https://github.com/orbitscanner/orbit
+## Bitor
+https://github.com/orbitscanner/Bitor
 
-https://orbitscanner.io/
+Bitor (formerly Orbit) is a powerful platform designed to facilitate large-scale Nuclei scans, enabling teams to efficiently manage and analyze scan results. By integrating modern technologies with a web frontend in SvelteKit and a backend in Go, with Terraform and Ansible for infrastructure and automation, Bitor streamlines the process of running security scans and collaborating on findings.
 
-Orbit is a powerful platform designed to facilitate large-scale Nuclei scans, enabling teams to efficiently manage and analyze scan results. By integrating modern technologies with a web frontend in SvelteKit and a backend in Go, with Terraform and Ansible for infrastructure and automation, Orbit streamlines the process of running security scans and collaborating on findings.
+## Renumscan
+https://github.com/priyank217/Renumscan
+
+Renumscan is a reconnaissance tool developed to identify and collect all available information on the internet that is associated with a specific organization. This type of data is essential for understanding an organization’s external digital footprint and identifying potential security risks, enabling SOC teams to take proactive measures.
